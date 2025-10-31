@@ -1,4 +1,4 @@
-```markdown
+
 # Space Governance FHE: A Secure Voting System for Interplanetary Democracy 🚀
 
 Space Governance FHE is an innovative voting system designed specifically for future space colonies and interplanetary societies. This project harnesses **Zama's Fully Homomorphic Encryption technology**, ensuring that citizens' votes are securely encrypted from end to end—whether they are on Earth, the Moon, or Mars. By prioritizing privacy and security, we lay the groundwork for democratic governance in the cosmos.
